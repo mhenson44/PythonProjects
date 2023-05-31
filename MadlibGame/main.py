@@ -1,0 +1,31 @@
+#Madlib Game
+#Madlib user input for story
+name = input("Enter a Proper Noun (Person's Name: ")
+n1 = input("Enter a Noun: ")
+n2 = input("Adjective (Feeling): ")
+n3 = input("Enter a Verb: ")
+n4 = input("Adjective (Feeling): ")
+n5 = input("Enter an Animal: ")
+n6 = input("Enter a Verb: ")
+n7 = input("Enter a Color: ")
+n8 = input("Enter a Verb (ending in ing): ")
+n9 = input("Enter a Adverb (ending in ly): ")
+n10 = input("Enter a Number: ")
+n11 = input("Enter a Measure of Time: ")
+n12 = input("Enter a Color: ")
+n13 = input("Enter a Animal: ")
+n14 = input("Enter a Number: ")
+n15 = input("Enter a Silly Word: ")
+n16 = input("Enter a Noun: ")
+
+
+#Madlib Story with Input
+print("This weekend I am going camping with " +name+'.')
+print("I packed my lantern, sleeping bag, and " +n1+'.')
+print("I am so " +n2+' to '+n3+' in a tent.')
+print("I am "+n4+' we might see a '+n5+', they are kind of dangerous.')
+print("We are going to hike, fish, and "+n6+'.')
+print("I have heard that the "+n7+' lake is great for '+n8+'.')
+print("Then we will "+n9+' hike through the forest for '+n10+''+n11+'.')
+print("If I see a "+n12+' '+n13+' while hiking, I am going to bring it home as a pet!')
+print("At night we will tell "+n14+' '+n15+' stories and roast '+n16+' around the campfire!!')
